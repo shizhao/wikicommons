@@ -1,0 +1,21 @@
+{
+  "name": "__MSG_name__",
+  "description": "__MSG_desc__",
+  "version": "2.1",
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  },
+  "icons": {
+    "16": "Commons-logo-16.png",
+    "128": "Commons-logo.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "http://commons.wikimedia.org/*",
+    "unlimitedStorage",
+    "notifications"
+  ],
+  "background_page" : "background.html"
+}

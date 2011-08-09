@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "维基共享资源",
+    "description": "name"
+  },
+  "desc": {
+    "message": "自由的媒体文件资源库。维基媒体基金会项目。",
+    "description": "description"
+  },
+  "notice": {
+    "message": "你有新消息。",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "通知：",
+    "description": "notification"
+  },
+  "mp": {
+    "message": "http://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5",
+    "description": "main page url"
+  }
+}

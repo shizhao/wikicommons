@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Wikimedia Commons",
+    "description": "name"
+  },
+  "desc": {
+    "message": "Free media file repository. It is a project of the Wikimedia Foundation.",
+    "description": "description"
+  },
+  "notice": {
+    "message": "You have new messages.",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "Notice:",
+    "description": "notification"
+  },
+  "mp": {
+    "message": "http://commons.wikimedia.org/wiki/Main_Page",
+    "description": "main page url"
+  }
+}
